@@ -1,0 +1,6 @@
+modelo/ConexionBD.class
+modelo/ValidarCampo.class
+modelo/Operaciones.class
+controlador/ValidarDatos.class
+modelo/Producto.class
+vista/Taller4.class
