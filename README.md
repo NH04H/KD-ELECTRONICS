@@ -25,15 +25,14 @@ Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) de product
 - Base de Datos MySQL
 
 ## Instalación
-1. Clonar el repositorio: `bash git clone [https://github.com/NH04/KD-ELECTRONICS.git](https://github.com/NH04/KD-ELECTRONICS.git)`
+1. Clonar el repositorio: `git clone git@github.com:NH04H/KD-ELECTRONICS.git`
 2. Configura la Base de Datos
 3. Configura Conexión JDBC
 4. Abrir en NetBeans
 5. Ejecutar con Maven
    
 ## Autor
-Juan Sandoval – UNIMINUTO
-Semana 8 - NRC-3692 Programación Orientada a Objetos
+Juan Sandoval – UNIMINUTO - NRC-3692 Programación Orientada a Objetos - Semana 8
 
 ## Repositorio
-[https://github.com/NH04/KD-ELECTRONICS](https://github.com/NH04/KD-ELECTRONICS)
+https://github.com/NH04H/KD-ELECTRONICS.git
